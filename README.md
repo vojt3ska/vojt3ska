@@ -1,16 +1,25 @@
-creator of 
+MMM          MMMM
+MMMMM      MMMMMM
+MMMMMMM  MMMMMMMM
+MMMMMMMMMMMMMMMMM
+MMMMM  MM  MMMMMM
+MMMMM      MMMMMM 
+MMMMM      MMMMMM
 
+TTTTTTTTTTTTTTTTT
+TTTTTTTTTTTTTTTTT
+      TTTT
+      TTTT
+      TTTT
+      TTTT
+      TTTT
 
-███╗░░░███╗████████╗░██████╗░-
-████╗░████║╚══██╔══╝██╔════╝░-
-██╔████╔██║░░░██║░░░██║░░██╗░-
-██║╚██╔╝██║░░░██║░░░██║░░╚██╗-
-██║░╚═╝░██║░░░██║░░░╚██████╔╝-
-╚═╝░░░░░╚═╝░░░╚═╝░░░░╚═════╝░-
-
-[html and python learner]
-
-[latest projects:]
-[Web pages for FLL team]
-[Discord bot (mtg bot)]
-[2nd place in autobot kladno 2023]
+  GGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGG
+GGGG         GGGG
+GGGG         
+GGGG    GGGGGGGGG
+GGGG    GGGGGGGGG
+GGGG         GGGG
+GGGGGGGGGGGGGGGGG
+  GGGGGGGGGGGGG  
